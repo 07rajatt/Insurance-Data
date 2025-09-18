@@ -1,5 +1,6 @@
 # Insurance-Data-Dashboard
 ### Dashboard Link :https://app.powerbi.com/links/LeUeLtc6Ta?ctid=a3d2d61d-5751-4b5f-ba05-aec2aeca6ec8&pbi_source=linkShare&bookmarkGuid=5517c014-1f85-4d30-ba3b-0397b1c2b903
+---
 ## Problem Statement
 
 The insurance sector generates large volumes of customer and policy data, but without proper analysis, key insights remain hidden. This dashboard provides a consolidated view of insurance data that helps stakeholders:
@@ -73,6 +74,8 @@ By creating an interactive and visually appealing dashboard, business leaders ca
   
 ![publishing](https://private-user-images.githubusercontent.com/157559708/491250805-1b25bb70-42ef-46a8-9194-f4ca0b525219.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyMjQwNTksIm5iZiI6MTc1ODIyMzc1OSwicGF0aCI6Ii8xNTc1NTk3MDgvNDkxMjUwODA1LTFiMjViYjcwLTQyZWYtNDZhOC05MTk0LWY0Y2EwYjUyNTIxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxOFQxOTI5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMmFiNzIzNzJhOGIyODVjZmViMzZkZmU4NTgzOGY0NjNkMzY0ZDFlYzI4OWQyMWFkMjA2Yzg1NjJjNjgxYWVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XuXOAOMEiaCpnuPAngtRIRTJvSyzZHoXc4mbA8PtFbo)
 
+---
+
 # Snapshot of Dashboard
 ## Power BI Desktop View
 
@@ -93,6 +96,8 @@ By creating an interactive and visually appealing dashboard, business leaders ca
 ### Page 2:
 
 ![page 2](https://private-user-images.githubusercontent.com/157559708/491251121-76d033de-b88b-4857-8f70-5bf8d15de235.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyMjQwNTksIm5iZiI6MTc1ODIyMzc1OSwicGF0aCI6Ii8xNTc1NTk3MDgvNDkxMjUxMTIxLTc2ZDAzM2RlLWI4OGItNDg1Ny04ZjcwLTViZjhkMTVkZTIzNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxOFQxOTI5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYzMxZTRhNmU2YmRjZDk5NGQ2M2FkOWY4NzZmNTIwNWYxZDcyZTFiOTE4NWRkNWI0MGM4ODEzYjU0ZDFlZmQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IikQMR9a3AB3PhkcFh2kbbKUXSopMIVs858r9pkx16A)
+
+---
 # Insights
 
 Following inferences can be drawn from the dashboard:
@@ -149,6 +154,7 @@ Insight: Risk increases with age, can guide premium pricing.
 
 This shows which products are profitable vs. risky.
 
+---
 # Conclusion
 
 The Insurance Dashboard provides a 360-degree view of customer, policy, and claims data. It enables insurers to:
@@ -162,3 +168,8 @@ The Insurance Dashboard provides a 360-degree view of customer, policy, and clai
 - Optimize policy offerings based on customer demographics.
 
 This report acts as a strategic decision-making tool, ensuring business growth through data-driven insights.
+
+---
+Author - Rajat Singh
+B.Tech - Computer Science and Engineering | AI & Data Enthusiast
+Email : rajattsingh10@gmail.com | LinkedIn : https://www.linkedin.com/in/rajat-singh-bb941924a/
